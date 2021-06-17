@@ -1,5 +1,9 @@
 ---
 ---
+
+
+@import "{{ site.theme }}";
+
 body {
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#2b2b2b;
@@ -9,5 +13,3 @@ body {
   background: url(../images/body-background.png) #ff7777;
 }
 
-
-@import "{{ site.theme }}";
