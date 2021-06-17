@@ -2,10 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-.body {
+body {
   background: url(../images/body-background.png) #ff2222;
 }
 
-.blockquote {
+blockquote {
   border-left:1px solid #cc00ff;
 }
