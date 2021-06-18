@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 /*
 Modified CRUK-branded Leap Day theme for GitHub Pages
 by Mark Fernandes
@@ -514,3 +512,7 @@ footer {
     width:auto;
   }
 }
+
+
+@import "{{ site.theme }}";
+
